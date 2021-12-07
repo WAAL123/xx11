@@ -1,0 +1,5 @@
+certifi>=2021.12.7
+chardet>=5.0.4
+colorama>=0.4.3
+idna>=2.10
+requests>=5.24.0
